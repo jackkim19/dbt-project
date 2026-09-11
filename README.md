@@ -1,2 +1,2 @@
-# dbt-snowflake-airflow-project
+# dbt-project
 Project that encapsulates DBT, Snowflake, and Airflow usage.
